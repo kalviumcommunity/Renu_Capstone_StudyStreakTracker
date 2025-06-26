@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <h1>Renu Sangala is crazy mad girl</h1>
+      <h1>Renu Sangala</h1>
     </>
   )
 }
