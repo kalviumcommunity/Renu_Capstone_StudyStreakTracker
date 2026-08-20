@@ -6,20 +6,22 @@ The **Study Streak Tracker** is a frontend-only web application built using **Re
 
 Inspired by apps like **Duolingo**, this app encourages consistent learning habits by visually displaying **current and longest streaks** for each subject the user studies.
 
-The data is managed locally using **browser localStorage**, so there is no backend. The app features a responsive design, subject management (add/delete), and a Light/Dark theme toggle for better accessibility.
+The data is managed locally using **browser localStorage**, so there is no backend.
 
+The app features a responsive design, subject management (add/delete), and a Light/Dark theme toggle for better accessibility.
 
+---
 
 ## 🛠 Tech Stack
 
-**React**– UI rendering & component-based structure  
-**JavaScript** – Logic & state management  
-**CSS / Tailwind** – Styling and theme support  
-**localStorage** – Persistent data storage  
-**Vercel / GitHub Pages** – Deployment  
-**GitHub** – Version control & PR tracking
+- **React** – UI rendering & component-based structure  
+- **JavaScript** – Logic & state management  
+- **CSS / Tailwind** – Styling and theme support  
+- **localStorage** – Persistent data storage  
+- **Vercel / GitHub Pages** – Deployment  
+- **GitHub** – Version control & PR tracking  
 
-
+---
 
 ## 🗓️ Day-by-Day Plan
 
@@ -31,7 +33,7 @@ The data is managed locally using **browser localStorage**, so there is no backe
 ### ✅ Day 2
 - Build static UI: Subject list, Add form, and header  
 - Design Light/Dark theme toggle  
-- Start CSS styling with responsive layout
+- Start CSS styling with responsive layout  
 
 ### ✅ Day 3
 - Add state management using `useState` and `useEffect`  
@@ -39,7 +41,7 @@ The data is managed locally using **browser localStorage**, so there is no backe
 - Save subjects using `localStorage`
 
 ### ✅ Day 4
-- Implement streak tracking logic:  
+- Implement streak tracking logic:
   - Check if studied today  
   - Update streak if valid  
   - Reset streak if missed
@@ -48,10 +50,11 @@ The data is managed locally using **browser localStorage**, so there is no backe
 - Final UI polishing and responsive fixes  
 - Deploy to Vercel or GitHub Pages  
 - Record project demo video  
-- Write final README and documentation
+- Write final README and documentation  
 
+---
 
 ## 📎 Author & Info
 
-👩‍💻 Name: Renu Sangala  
-💡 Kalvium Capstone Project  
+👩‍💻 Name: **Renu Sangala**  
+💡 **Kalvium Capstone Project**
