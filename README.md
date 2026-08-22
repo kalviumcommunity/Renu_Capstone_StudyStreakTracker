@@ -1,4 +1,4 @@
-# 📚 Study Streak Tracker (Capstone Project)
+# 📚 Study Streak Tracker
 
 ## 🔍 Project Description
 
@@ -57,4 +57,3 @@ The app features a responsive design, subject management (add/delete), and a Lig
 ## 📎 Author & Info
 
 👩‍💻 Name: **Renu Sangala**  
-💡 **Kalvium Capstone Project**
